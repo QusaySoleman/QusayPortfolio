@@ -26,7 +26,7 @@ function Navbar() {
         >
           <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
             <li>
-              <NavLink to="/">Home</NavLink>
+              <NavLink to="/Portfolio">Home</NavLink>
             </li>
             <li>
               <NavLink to="skills">Skills</NavLink>

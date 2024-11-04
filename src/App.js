@@ -12,7 +12,7 @@ import Copyright from "./components/Copyright/Copyright";
 //import google fonts
 
 function App() {
-  const LazyContact=React.lazy(()=>import("./components/Contact/Contact"))
+  const LazyContact = React.lazy(() => import("./components/Contact/Contact"));
   return (
     <div className="App">
       {/* <BrowserRouter>
@@ -29,18 +29,18 @@ function App() {
       </BrowserRouter> */}
       <Navbar />
       <Routes>
-        <Route path="/" element={<Hero />} />
+        <Route path="/Portfolio" element={<Hero />} />
         <Route path="/projects" element={<Projects />} />
         <Route path="/skills" element={<Skill />} />
         {/* <Route path="/contact-me" element={<Contact />} /> */}
         <Route
-            path="/contact-me"
-            element={
-              <React.Suspense fallback="loading">
-                <LazyContact />
-              </React.Suspense>
-            }
-          />
+          path="/contact-me"
+          element={
+            <React.Suspense fallback="loading">
+              <LazyContact />
+            </React.Suspense>
+          }
+        />
       </Routes>
       <Copyright />
     </div>
