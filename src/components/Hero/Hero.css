@@ -1,0 +1,69 @@
+.hero-section {
+    background-color:var(--secondBG);
+    color: var(--mainBG);
+    font-weight: 600;
+    padding-top: 25px;  
+    
+}
+
+.hero-content {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 75px;
+    margin-bottom: 150px;
+}
+.hero-content .row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-box {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.img-box img {
+    border-radius: 5px;
+    border-top:2px solid black;
+    border-left:2px solid black;
+    max-height: 500px;
+    margin: 20px 0;
+    opacity: .8;
+    transition: all 0.6s ease;
+}
+.img-box img:hover{
+    cursor: pointer;
+    transform: translateY(10px) rotate(-2deg);
+    opacity: 1;
+    
+}
+
+.img-box button{
+    color: var(--mainColor);
+    /* background-color: var(--mainBG); */
+    font-weight: 600;
+}
+.hello-friends-box,
+.available {
+    width: 100%;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 28px;
+}
+
+.hello-friends-box {
+    background-color: transparent;
+}
+.self-introduction{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: start;
+    line-height: 2.3;
+    font-size: 20px;
+}

@@ -1,0 +1,16 @@
+:root {
+
+  --mainColor:#fff;
+  --mainBG:#eee;
+  --secondBG:#000;
+  --main-padding:80px 20px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: var(--mainBG) !important;
+  color: var(--mainColor);
+
+}

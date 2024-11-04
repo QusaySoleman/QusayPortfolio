@@ -1,0 +1,60 @@
+.nav-content {
+
+    position: fixed;
+    z-index: 999;
+    margin-top: 10px;
+    background-color: #ffffffe0;
+    padding: 5px 10px;
+    width: 100%;
+
+}
+
+.navbar {
+    border-radius: 1px;
+}
+
+
+.logo {
+    font-size: 30px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+ul li {
+    margin-right: 25px;
+}
+
+ul li a {
+    text-decoration: none;
+    font-weight: 600;
+    /* color: var(--mainColor); */
+    color: #000;
+}
+
+ul li a:hover,
+.call-icon-box:hover {
+    transition: 0.3s;
+    color: var(--mainColor);
+}
+
+.call-icon-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 15px;
+    cursor: pointer;
+}
+
+.call-icon-phone-number {
+    font-weight: 700;
+    font-style: italic;
+    padding: 10px;
+    border-radius: 20px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.514);
+}
