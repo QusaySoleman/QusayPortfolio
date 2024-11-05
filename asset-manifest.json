@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/QusayPortfolio/static/css/main.dd7eeacd.css",
+    "main.js": "/QusayPortfolio/static/js/main.61307808.js",
+    "static/media/team.jpg": "/QusayPortfolio/static/media/team.00e140e49dc1150c4d0d.jpg",
+    "static/media/lab-bg.jpg": "/QusayPortfolio/static/media/lab-bg.7a6187fa2d8fbe4bec99.jpg",
+    "static/media/portfolio.jpg": "/QusayPortfolio/static/media/portfolio.0e21e7cd4df13f906b10.jpg",
+    "static/media/bootstrap-icons.woff?": "/QusayPortfolio/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/QusayPortfolio/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/Tepmlate 3.png": "/QusayPortfolio/static/media/Tepmlate 3.cd5a5743981fae9266a8.png",
+    "static/media/Tepmlate 2.png": "/QusayPortfolio/static/media/Tepmlate 2.bab945ee3f2eb6bad2cb.png",
+    "static/media/Change theme1.png": "/QusayPortfolio/static/media/Change theme1.5491b323c97ff945b748.png",
+    "static/media/CoffeeStore.png": "/QusayPortfolio/static/media/CoffeeStore.3ad97328e5b7f76a5d9b.png",
+    "static/media/JCI-Syria.png": "/QusayPortfolio/static/media/JCI-Syria.9fb5d7f851a932c491ae.png",
+    "static/media/Darrebni.png": "/QusayPortfolio/static/media/Darrebni.c3319a9bbe56f464cd22.png",
+    "static/media/Tepmlate 1.png": "/QusayPortfolio/static/media/Tepmlate 1.fe8778c5cec22098cb6a.png",
+    "static/media/Product Dashboard.png": "/QusayPortfolio/static/media/Product Dashboard.69d5aca0881a7e9c214c.png",
+    "static/media/Whatsapp QR-Code.jpeg": "/QusayPortfolio/static/media/Whatsapp QR-Code.49f4107a68cb42b0fdff.jpeg",
+    "static/media/Calculator.png": "/QusayPortfolio/static/media/Calculator.5cfc340a0ebb9d61f607.png",
+    "static/media/Translate.jpg": "/QusayPortfolio/static/media/Translate.c1009e549f55b7b07c82.jpg",
+    "static/media/To Do App.png": "/QusayPortfolio/static/media/To Do App.7c3069679e34c0e0adb2.png",
+    "index.html": "/QusayPortfolio/index.html",
+    "main.dd7eeacd.css.map": "/QusayPortfolio/static/css/main.dd7eeacd.css.map",
+    "main.61307808.js.map": "/QusayPortfolio/static/js/main.61307808.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd7eeacd.css",
+    "static/js/main.61307808.js"
+  ]
+}
