@@ -3,10 +3,10 @@ import "./Navbar.css";
 import { NavLink } from "react-router-dom";
 function Navbar() {
   return (
-   <div className="nav-content ">
+    <div className="nav-content ">
       <nav className="navbar navbar-expand-lg ">
-        <a className="logo" href="/">
-          B11-FD
+        <a className="logo" href="/Qusay-Portfolio">
+          B11
         </a>
 
         <button
@@ -26,7 +26,7 @@ function Navbar() {
         >
           <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
             <li>
-              <NavLink to="/Portfolio">Home</NavLink>
+              <NavLink to="/Qusay-Portfolio">Home</NavLink>
             </li>
             <li>
               <NavLink to="skills">Skills</NavLink>
@@ -40,12 +40,13 @@ function Navbar() {
           </ul>
           <div className="call-icon-box">
             <i className="call-icon bi bi-telephone-plus-fill me-3"></i>
-            <div className="call-icon-phone-number">0993519890</div>
+            <div className="call-icon-phone-number" title="Call Me">
+              0993519890
+            </div>
           </div>
         </div>
       </nav>
-      </div>
-   
+    </div>
   );
 }
 

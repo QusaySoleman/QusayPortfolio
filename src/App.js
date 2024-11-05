@@ -29,7 +29,7 @@ function App() {
       </BrowserRouter> */}
       <Navbar />
       <Routes>
-        <Route path="/Portfolio" element={<Hero />} />
+        <Route path="/Qusay-Portfolio" element={<Hero />} />
         <Route path="/projects" element={<Projects />} />
         <Route path="/skills" element={<Skill />} />
         {/* <Route path="/contact-me" element={<Contact />} /> */}
