@@ -10,7 +10,7 @@ function Hero() {
   return (
  <>
 
- <div className="container-fluid hero-section">
+ <div className="container-fluid hero-section" id="home">
       
       <div className="hero-content">
         <div

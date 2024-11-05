@@ -1,11 +1,10 @@
 import React from "react";
 import "./Navbar.css";
-import { NavLink } from "react-router-dom";
 function Navbar() {
   return (
     <div className="nav-content ">
       <nav className="navbar navbar-expand-lg ">
-        <a className="logo" href="/Qusay-Portfolio">
+        <a className="logo" href="#home">
           B11
         </a>
 
@@ -26,16 +25,16 @@ function Navbar() {
         >
           <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
             <li>
-              <NavLink to="/Qusay-Portfolio">Home</NavLink>
+              <a href="#home">Home</a>
             </li>
             <li>
-              <NavLink to="skills">Skills</NavLink>
+              <a href="#skills">Skills</a>
             </li>
             <li>
-              <NavLink to="projects">Projects</NavLink>
+              <a href="#projects">Projects</a>
             </li>
             <li>
-              <NavLink to="contact-me">Contact</NavLink>
+              <a href="#contact-me">Contact</a>
             </li>
           </ul>
           <div className="call-icon-box">

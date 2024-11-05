@@ -8,7 +8,7 @@ import { fadeIn } from "../variants";
 
 function Contact() {
   return (
-    <div className=" container-fluid contact-section">
+    <div className=" container-fluid contact-section" id="contact-me">
       <div className="row stay-connected">
         <h4>Contact Me</h4>
         {/* 1 */}

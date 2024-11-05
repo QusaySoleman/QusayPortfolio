@@ -8,7 +8,7 @@ import { motion } from "framer-motion";
 import { fadeIn } from "../variants";
 function Skill() {
   return (
-    <div className="skill-section ">
+    <div className="skill-section " id="skills">
    
       <motion.div
         variants={fadeIn("down", 0.2)}
