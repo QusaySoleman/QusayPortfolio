@@ -2,8 +2,8 @@ import React from "react";
 import "./Navbar.css";
 function Navbar() {
   return (
-    <div className="nav-content ">
-      <nav className="navbar navbar-expand-lg ">
+    <div className="nav-content fixed-top navbar navbar-expand-lg ">
+     
         <a className="logo" href="#home">
           B11
         </a>
@@ -44,7 +44,7 @@ function Navbar() {
             </div>
           </div>
         </div>
-      </nav>
+      
     </div>
   );
 }

@@ -28,7 +28,7 @@ const ProjectsData = [
     name: "React JS - E-commerce full responsive website",
     Description:
       "E-commerce full responsive website with a shopping cart :Swiper ,Axios ,Redux Toolkit and storing all data",
-    link: "https://qusaysoleman.github.io/E-Coffee-Store/",
+    link: "https://qusaysoleman.github.io/e-store/",
     imageURL: img1,
   },
 

@@ -5,7 +5,6 @@ import QusayImg from "../../Assets/images/portfolio.jpg";
 import { motion } from "framer-motion";
 // variants
 import { fadeIn } from "../variants";
-import Company from '../Company/Company'
 function Hero() {
   return (
  <>
@@ -53,7 +52,7 @@ function Hero() {
           </motion.div>
         </div>
       </div>
-        <Company/>
+        
       
     </div>
  </>
