@@ -9,8 +9,9 @@
 body {
   margin: 0;
   padding: 0;
-  /* box-sizing: border-box; */
+  box-sizing: border-box;
   background-color: var(--mainBG) !important;
   color: var(--mainColor);
 
+width: 100%;
 }

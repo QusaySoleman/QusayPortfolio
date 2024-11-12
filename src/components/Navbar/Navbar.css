@@ -1,19 +1,16 @@
-.nav-content {
-    background-color: red;
-    padding: 0 10px;
-}
-
 .navbar {
-    border-radius: 1px;
-    
-    
-    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #eee;
+    padding: 10px 50px;
+
 }
 
 
 .logo {
-    font-size: 30px;
-    font-weight: 600;
+    font-size: 40px;
+    font-weight: 700;
     text-decoration: none;
 }
 
