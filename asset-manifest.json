@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/QusayPortfolio/static/css/main.25d0dc88.css",
-    "main.js": "/QusayPortfolio/static/js/main.f26290a0.js",
+    "main.css": "/QusayPortfolio/static/css/main.031553eb.css",
+    "main.js": "/QusayPortfolio/static/js/main.6ea017e9.js",
     "static/media/team.jpg": "/QusayPortfolio/static/media/team.00e140e49dc1150c4d0d.jpg",
     "static/media/lab-bg.jpg": "/QusayPortfolio/static/media/lab-bg.7a6187fa2d8fbe4bec99.jpg",
     "static/media/portfolio.jpg": "/QusayPortfolio/static/media/portfolio.0e21e7cd4df13f906b10.jpg",
+    "static/media/CoffeeStore.png": "/QusayPortfolio/static/media/CoffeeStore.cca01af09ed1009f34b9.png",
     "static/media/bootstrap-icons.woff?": "/QusayPortfolio/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/QusayPortfolio/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "static/media/Tepmlate 3.png": "/QusayPortfolio/static/media/Tepmlate 3.cd5a5743981fae9266a8.png",
     "static/media/Tepmlate 2.png": "/QusayPortfolio/static/media/Tepmlate 2.bab945ee3f2eb6bad2cb.png",
     "static/media/Change theme1.png": "/QusayPortfolio/static/media/Change theme1.5491b323c97ff945b748.png",
-    "static/media/CoffeeStore.png": "/QusayPortfolio/static/media/CoffeeStore.3ad97328e5b7f76a5d9b.png",
     "static/media/JCI-Syria.png": "/QusayPortfolio/static/media/JCI-Syria.9fb5d7f851a932c491ae.png",
     "static/media/Darrebni.png": "/QusayPortfolio/static/media/Darrebni.c3319a9bbe56f464cd22.png",
     "static/media/Tepmlate 1.png": "/QusayPortfolio/static/media/Tepmlate 1.fe8778c5cec22098cb6a.png",
@@ -20,11 +20,11 @@
     "static/media/Translate.jpg": "/QusayPortfolio/static/media/Translate.c1009e549f55b7b07c82.jpg",
     "static/media/To Do App.png": "/QusayPortfolio/static/media/To Do App.7c3069679e34c0e0adb2.png",
     "index.html": "/QusayPortfolio/index.html",
-    "main.25d0dc88.css.map": "/QusayPortfolio/static/css/main.25d0dc88.css.map",
-    "main.f26290a0.js.map": "/QusayPortfolio/static/js/main.f26290a0.js.map"
+    "main.031553eb.css.map": "/QusayPortfolio/static/css/main.031553eb.css.map",
+    "main.6ea017e9.js.map": "/QusayPortfolio/static/js/main.6ea017e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.25d0dc88.css",
-    "static/js/main.f26290a0.js"
+    "static/css/main.031553eb.css",
+    "static/js/main.6ea017e9.js"
   ]
 }
