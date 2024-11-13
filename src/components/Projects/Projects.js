@@ -5,7 +5,7 @@ import ProjectsData from "./ProjectsData/ProjectData";
 function Projects() {
   return (
     <div className="projects-section " id="projects">
-      <div className="container-fluid">
+      <div className="container">
         <div className="row">
           <h2 className="mb-4">My Projects</h2>
           {ProjectsData &&
@@ -25,7 +25,7 @@ function Projects() {
                     <p>{projectData.Description}</p>
 
                     <a target="blank" href={projectData.link}>
-                      <button className="btn btn-dark">View</button>
+                      <button className="btn btn-light text-dark">View</button>
                     </a>
                   </div>
                 </div>
